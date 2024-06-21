@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("C-Utilities-for-Godot-4")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("C-Sharp-Utilities-for-Godot-4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a69573f479f07fd69bf0b03a0247da4e81235a35")]
-[assembly: System.Reflection.AssemblyProductAttribute("C-Utilities-for-Godot-4")]
-[assembly: System.Reflection.AssemblyTitleAttribute("C-Utilities-for-Godot-4")]
+[assembly: System.Reflection.AssemblyProductAttribute("C-Sharp-Utilities-for-Godot-4")]
+[assembly: System.Reflection.AssemblyTitleAttribute("C-Sharp-Utilities-for-Godot-4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

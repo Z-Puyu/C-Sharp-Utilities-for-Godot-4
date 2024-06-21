@@ -94,11 +94,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C-Utilities-for-Godot-4\\C-Utilities-for-Godot-4.csproj",
-      "projectName": "C-Utilities-for-Godot-4",
-      "projectPath": "D:\\C-Utilities-for-Godot-4\\C-Utilities-for-Godot-4.csproj",
+      "projectUniqueName": "D:\\C-Sharp-Utilities-for-Godot-4\\C-Sharp-Utilities-for-Godot-4.csproj",
+      "projectName": "C-Sharp-Utilities-for-Godot-4",
+      "projectPath": "D:\\C-Sharp-Utilities-for-Godot-4\\C-Sharp-Utilities-for-Godot-4.csproj",
       "packagesPath": "C:\\Users\\zpyzh\\.nuget\\packages\\",
-      "outputPath": "D:\\C-Utilities-for-Godot-4\\.godot\\mono\\temp\\obj\\",
+      "outputPath": "D:\\C-Sharp-Utilities-for-Godot-4\\.godot\\mono\\temp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

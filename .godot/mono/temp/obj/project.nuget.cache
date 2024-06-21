@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "am+5MSzTUUxy10hP36iUd+JFDA7iMIyfCuvX60eQmZYPW5h2WaR5XP3YP+jL5OVOJOwfVlOOocSo265oK3FJPg==",
   "success": true,
-  "projectFilePath": "D:\\C-Utilities-for-Godot-4\\C-Utilities-for-Godot-4.csproj",
+  "projectFilePath": "D:\\C-Sharp-Utilities-for-Godot-4\\C-Sharp-Utilities-for-Godot-4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zpyzh\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
     "C:\\Users\\zpyzh\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
