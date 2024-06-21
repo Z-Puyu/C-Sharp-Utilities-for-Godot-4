@@ -11,5 +11,7 @@
     <Content Include="Utilities.cs" />
     <Content Include="GodotExtensions.cs" />
     <Content Include="EventBus.cs" />
+    <Content Include="finite_state_machine\StateMachine.cs" />
+    <Content Include="finite_state_machine\State.cs" />
   </ItemGroup>
 </Project>
