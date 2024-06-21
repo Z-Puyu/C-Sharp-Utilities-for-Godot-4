@@ -1,9 +1,8 @@
 using System;
 using System.Collections.Generic;
 using Godot;
-using GodotUtilities;
 
-namespace Utilities.FSM {
+namespace GodotUtilities.FSM {
     public partial class StateMachine : Node {
         [Export] private NodePath InitialState { set; get; }
         private readonly Dictionary<string, State> states = [];

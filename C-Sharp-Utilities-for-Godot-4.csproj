@@ -5,13 +5,13 @@
     <TargetFramework Condition=" '$(GodotTargetPlatform)' == 'android' ">net7.0</TargetFramework>
     <TargetFramework Condition=" '$(GodotTargetPlatform)' == 'ios' ">net8.0</TargetFramework>
     <EnableDynamicLoading>true</EnableDynamicLoading>
-    <RootNamespace>Utilities</RootNamespace>
+    <RootNamespace>GodotUtilities</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="Utilities.cs" />
-    <Content Include="GodotExtensions.cs" />
-    <Content Include="EventBus.cs" />
     <Content Include="finite_state_machine\StateMachine.cs" />
     <Content Include="finite_state_machine\State.cs" />
+    <Content Include="EventBus.cs" />
+    <Content Include="GodotExtensions.cs" />
+    <Content Include="Utilities.cs" />
   </ItemGroup>
 </Project>

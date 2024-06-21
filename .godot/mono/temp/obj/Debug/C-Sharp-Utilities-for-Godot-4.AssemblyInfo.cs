@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C-Sharp-Utilities-for-Godot-4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a69573f479f07fd69bf0b03a0247da4e81235a35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9517d14d8cbaab7a422981e68c996127deaf63fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("C-Sharp-Utilities-for-Godot-4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C-Sharp-Utilities-for-Godot-4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

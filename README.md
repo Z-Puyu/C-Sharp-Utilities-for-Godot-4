@@ -67,6 +67,7 @@ Full example code:
 
 ```csharp
 using System;
+using GodotUtilities;
 
 public class MyCustomEvent : EventArgs {}
 
