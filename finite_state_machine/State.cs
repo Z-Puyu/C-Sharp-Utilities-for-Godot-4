@@ -1,7 +1,7 @@
 using System;
 using Godot;
 
-namespace Utilities.FSM {
+namespace GodotUtilities.FSM {
     public abstract partial class State : Node {
         private StateMachine fsm;
 
